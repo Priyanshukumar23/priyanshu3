@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:orange,, url("E:\pexels-pixabay-36717.jpg");
+    font-size:15px;
+    position:relative;
+}
+.container{
+width:90%;
+margin:50px auto;
+font-weight: 30px;
+font-style: italic;
+}
+.contact-box{
+background: #fff;
+
+}
+.contact-left{
+padding: 50px;
+color:#fff;
+background-color: #ffb555;
+font-weight: 30px;
+font-style: italic;
+}
+h1{
+    font-weight: bold;
+    font-style:italic;
+}
+p:hover{
+    color:red;
+    font-weight: 30px;
+}
+span{
+    color: #6a00ff;
+    font-size: 25px}
+H1{
+    color: black;
+    font-size: 45px;
+    
+}
